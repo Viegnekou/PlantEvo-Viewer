@@ -65,4 +65,3 @@ La carte de répartition a été générée avec QGIS.
 
 ##  Auteur
 - VIEKNEKOU Koffi Bogar
-- Digital Farming School - 2026

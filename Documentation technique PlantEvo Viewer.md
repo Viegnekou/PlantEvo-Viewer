@@ -1,4 +1,4 @@
-# 📘 Documentation technique — PlantEvo Viewer
+# Documentation technique — PlantEvo Viewer
 
 **Projet** : Brief 01 — Digital Farming School
 **Auteure** : VIEGNEKOU Koffi Bogar
